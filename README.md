@@ -178,6 +178,11 @@ Base URL: `http://localhost:8081/api/bugs`
 | PUT | `/api/bugs/{id}` | Update bug details |
 | DELETE | `/api/bugs/{id}` | Delete a bug |
 
+
+## Application Screenshots
+
+![BugTrack Dashboard](ScreenShots/Dashboard.png)
+
 ## 💡 Application Workflow
 
 1. A user creates a bug through the React dashboard.
